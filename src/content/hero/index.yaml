@@ -1,11 +1,10 @@
 name: DobleADev
-title: Astro Portfolio Template built with 🌼 DaisyUI
+title: DobleADev Portfolio
 description: >-
-  A modern, responsive, and customizable portfolio template built with Astro and
-  DaisyUI. Perfect for developers, designers, and creatives to showcase their
-  work and skills.
+  Get to know the stuff I make! 
+  Here I showcase all my relevant projects that made me level UP as a Developer.
 avatar: '@assets/hero/avatar.png'
-location: 🇧🇷 Brazil
+location: rd Dominican Republic
 socialLinks:
   - url: mailto:arielnunezmendez@gmail.com
     icon: Email
