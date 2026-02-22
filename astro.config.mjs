@@ -6,9 +6,7 @@ import tailwindcss from "@tailwindcss/vite";
 import react from "@astrojs/react";
 import markdoc from "@astrojs/markdoc";
 import keystatic from "@keystatic/astro";
-// import vercel from "@astrojs/vercel";
-
-const isGithubPages = import.meta.env.PROD === true;
+import vercel from "@astrojs/vercel";
 
 // https://astro.build/config
 export default defineConfig({
@@ -21,15 +19,11 @@ export default defineConfig({
     },
   },
 
-  // output: "server",
+  output: "server",
 
-  // adapter: vercel({
-  //   webAnalytics: {
-  //     enabled: true,
-  //   },
-  // }),
-
-  site: 'https://dobleadev.github.io',
-  base: isGithubPages ? '/videogame-programmer-portfolio' : undefined,
-  
+  adapter: vercel({
+    webAnalytics: {
+      enabled: true,
+    },
+  }),
 });
