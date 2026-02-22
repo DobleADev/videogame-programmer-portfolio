@@ -21,6 +21,7 @@ const hero = defineCollection({
             "Bluesky",
             "Instagram",
             "YouTube",
+            "Itchio",
             "Email",
             "FolderCode",
           ]),

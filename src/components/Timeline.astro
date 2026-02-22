@@ -151,14 +151,14 @@ const entriesWithContent = await Promise.all(
                           )}
                         </div>
                       </div>
-                      <div class="card-actions justify-end mt-2">
+                      {/* <div class="card-actions justify-end mt-2">
                         <button
                           class="btn btn-ghost btn-sm"
                           onclick={`document.getElementById('modal-${entry.id}').showModal()`}
                         >
                           Read more
                         </button>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
@@ -321,7 +321,7 @@ const entriesWithContent = await Promise.all(
       )
     }
 
-    {
+    <!-- {
       collection === "work" && variant === "timeline" && aboutLink && (
         <div class="text-center mt-10">
           <a
@@ -334,6 +334,6 @@ const entriesWithContent = await Promise.all(
           </a>
         </div>
       )
-    }
+    } -->
   </div>
 </section>

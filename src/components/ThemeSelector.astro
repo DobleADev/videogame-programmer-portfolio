@@ -45,9 +45,10 @@ const themes = [
 
     // If no saved theme, use system preference
     if (!theme) {
-      theme = window.matchMedia("(prefers-color-scheme: dark)").matches
-        ? "dark"
-        : "light";
+      // theme = window.matchMedia("(prefers-color-scheme: dark)").matches
+      //   ? "dark"
+      //   : "light";
+      theme = "dim";
     }
 
     // Apply theme to document

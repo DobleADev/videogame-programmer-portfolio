@@ -1,20 +1,17 @@
 ---
-title: Templix - Professional Marketplace Template
+title: Joseo Dominicano
 description: >-
   A production-ready marketplace for selling templates and digital products.
   Built with Astro, Keystatic CMS, and modern web technologies.
 image: '@assets/projects/templix-professional-marketplace-template/image.png'
-startDate: 2025-12-17
-endDate: 2026-01-05
+startDate: 2025-10-06
+endDate: 2025-10-13
 skills:
-  - Astro
-  - Keystatic CMS
-  - DaisyUI
-  - React
-  - Typescript
-demoLink: https://templix.lwg.workers.dev/
-sourceLink: https://portal.astro.build/themes/templix-professional-marketplace-template/
-featured: false
+  - Unity
+  - C#
+demoLink: https://snowhex.itch.io/joseo-dominicano
+sourceLink: https://github.com/Roombie/Joseo-Dominicano
+featured: true
 ---
 ## Features
 
