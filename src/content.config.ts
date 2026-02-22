@@ -172,7 +172,7 @@ const contact = defineCollection({
     footerIcon: z.enum(["Pickaxe", "Hammer", "Heart"]),
     footerText: z.string(),
     footerLinkText: z.string(),
-    footerLinkUrl: z.string().url(),
+    // footerLinkUrl: z.string().url(),
   }),
 });
 

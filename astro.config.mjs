@@ -6,7 +6,7 @@ import tailwindcss from "@tailwindcss/vite";
 import react from "@astrojs/react";
 import markdoc from "@astrojs/markdoc";
 import keystatic from "@keystatic/astro";
-import vercel from "@astrojs/vercel";
+// import vercel from "@astrojs/vercel";
 
 const isGithubPages = import.meta.env.PROD === true;
 
