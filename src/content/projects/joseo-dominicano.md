@@ -1,15 +1,14 @@
 ---
 title: Joseo Dominicano
 description: >-
-  A production-ready marketplace for selling templates and digital products.
-  Built with Astro, Keystatic CMS, and modern web technologies.
-image: '@assets/projects/templix-professional-marketplace-template/image.png'
+  The Quisqueya Game Jam entry I was part of, from idea brainstorming to designing programming key components & features, we made better use of scriptableObjects for the gameplay & level configuration.
+image: '@assets/projects/joseo-dominicano/screenshot.png'
 startDate: 2025-10-06
 endDate: 2025-10-13
 skills:
   - Unity
   - C#
-demoLink: https://snowhex.itch.io/joseo-dominicano
+demoLink: https://snowhex.itch.io/joseo-dominicano-full-ver
 sourceLink: https://github.com/Roombie/Joseo-Dominicano
 featured: true
 ---

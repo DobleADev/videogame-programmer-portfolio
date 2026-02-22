@@ -22,9 +22,9 @@ const FooterIcon = getIcon(contact.footerIcon as any);
       >
         {contact.linkText}
       </a>
-      and I'll respond whenever I can.
+      Lets get in touch!
     </p>
-    <p class="flex items-center space-x-1 text-base-content/60">
+    <!-- <p class="flex items-center space-x-1 text-base-content/60">
       <span>Copyright © {new Date().getFullYear()} - {contact.footerText}</span>
       <a
         class="link link-hover inline-flex justify-center items-center"
@@ -34,6 +34,18 @@ const FooterIcon = getIcon(contact.footerIcon as any);
         <FooterIcon class="size-3 inline-block mr-1" />
         {contact.footerLinkText}
       </a>
+    </p> -->
+    <p class="flex items-center space-x-1 text-base-content/60">
+      <span>{contact.footerText}</span>
+      <FooterIcon class="size-3 inline-block mr-1" />
+      <!-- <a
+        class="link link-hover inline-flex justify-center items-center"
+        href={contact.footerLinkUrl}
+        target="_blank"
+      >
+        <FooterIcon class="size-3 inline-block mr-1" />
+        {contact.footerLinkText}
+      </a> -->
     </p>
   </aside>
 </footer>

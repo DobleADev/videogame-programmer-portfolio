@@ -1,11 +1,10 @@
 ---
 title: My Perfect Pet
 description: >-
-  A production-ready marketplace for selling templates and digital products.
-  Built with Astro, Keystatic CMS, and modern web technologies.
-image: '@assets/projects/templix-professional-marketplace-template/image.png'
-startDate: 2025-09-01
-endDate: 2026-05-27
+  An educational game I was part of, doing from competition analysis to designing, programming, debugging and deploying the game. Taking a Data-driven approach for the levels, dialogs, etc. And managed to optimize from ~35mb to ~22mb build size in the first public version.
+image: '@assets/projects/my-perfect-pet/screenshot.png'
+startDate: 2025-09-12
+endDate: 2025-12-27
 skills:
   - Unity
   - C#

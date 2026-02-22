@@ -1,9 +1,10 @@
 ---
-title: Nova Tech
-subtitle: Sr. Software Engineer
-location: 🇦🇺 Australia
-startDate: 2025-12-01
-logo: '@assets/work/nova-tech/logo.png'
+title: ITLA
+subtitle: Software Student
+# location: 🇵🇹 Portugal
+startDate: 2022-01-17
+endDate: 2024-12-19
+logo: '@assets/work/itla/logo.png'
 link: https://lauroguedes.dev
 skills:
   - PHP

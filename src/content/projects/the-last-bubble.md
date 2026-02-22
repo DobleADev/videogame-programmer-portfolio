@@ -1,15 +1,14 @@
 ---
 title: The Last Bubble
 description: >-
-  A production-ready marketplace for selling templates and digital products.
-  Built with Astro, Keystatic CMS, and modern web technologies.
-image: '@assets/projects/templix-professional-marketplace-template/image.png'
+  My Global Game Jam 2025 entry, I tried the ScriptableObject Architecture Pattern for the first time, managing variables and events in editor, discovering how overkill could the workflow be & how flexible component members are to setup.
+image: '@assets/projects/the-last-bubble/screenshot.png'
 startDate: 2025-02-19
 endDate: 2025-02-26
 skills:
   - Unity
   - C#
-demoLink: https://templix.lwg.workers.dev/
+demoLink: https://dobleadev.itch.io/the-last-bubble
 sourceLink: https://github.com/DobleADev/bubbling-project
 featured: true
 ---

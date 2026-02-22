@@ -1,10 +1,10 @@
 ---
 icon: MessageCircleCode
-linkUrl: https://x.com/leowg
-linkText: with a direct question on X (twitter)
+linkUrl: mailto:arielnunezmendez@gmail.com
+linkText: with your projects or questions 
 footerIcon: Pickaxe
-footerText: Crafted by an Artisan
-footerLinkText: Lauro Guedes
-footerLinkUrl: https://lauroguedes.dev
+footerText: Developed by Ariel Núñez
+footerLinkText: Ariel Núñez
+footerLinkUrl: "/"
 ---
-Want to chat? shoot me a dm
+Want to contact? Send me an email 
