@@ -21,7 +21,7 @@ interface Props {
 
 const { hero } = Astro.props;
 ---
-<section class="hero min-h-screen" style={{ backgroundImage: `url(${heroBg.src})` }}>
+<section class="hero lg:min-h-screen" style={{ backgroundImage: `url(${heroBg.src})` }}>
   <div class="hero-content flex-col lg:flex-row-reverse max-w-7xl">
     <div class="hover-3d">
       <!-- content -->
@@ -45,7 +45,7 @@ const { hero } = Astro.props;
       <div></div>
     </div>
     <div class="max-w-7xl text-center ">
-      <h1 class="text3xl lg:text-7xl font-bold mb-7">
+      <h1 class="text-xl mb-3 lg:text-7xl font-bold lg:mb-7">
         Hi, I'm {hero.name}
       </h1>
       <!-- <p class="skeleton skeleton-text text-xl text-base-content/80 mb-2">
